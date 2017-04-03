@@ -1,0 +1,42 @@
+@font-face {
+  font-family: 'Gotham-Book-Multi';
+  src: url('../fonts/Gotham-Book-Multi.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Gotham-Book-Multi.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Gotham-Book-Multi.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Gotham-Book-Multi.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Gotham-Book-Multi.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Gotham-Book-Multi.svg#svgFontName') format('svg'); /* Legacy iOS */
+
+  font-family: 'Gotham-Light';
+  src: url('../fonts/Gotham-Light.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Gotham-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Gotham-Light.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Gotham-Light.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Gotham-Light.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Gotham-Light.svg#svgFontName') format('svg'); /* Legacy iOS */
+
+  font-family: 'Gobold Thin';
+  src: url('../fonts/Gobold Thin.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/Gobold Thin.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/Gobold Thin.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/Gobold Thin.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/Gobold Thin.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/Gobold Thin.svg#svgFontName') format('svg'); /* Legacy iOS */
+
+  font-family: 'Christopherhand';
+  src: url('../fonts/comesinhandy.eot'); /* IE9 Compat Modes */
+  src: url('../fonts/comesinhandy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/comesinhandy.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/comesinhandy.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/comesinhandy.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/comesinhandy.svg#svgFontName') format('svg'); /* Legacy iOS */
+
+    font-family: 'CoolveticaRg-Regular';
+    src: url('../fonts/coolvetica_rg.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/coolvetica_rg.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/coolvetica_rg.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/coolvetica_rg.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/coolvetica_rg.ttf')  format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/coolvetica_rg.svg#svgFontName') format('svg'); /* Legacy iOS */
+
+}
